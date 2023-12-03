@@ -258,7 +258,7 @@ FIXME: This section needs to be fleshed out.
 
 .. _cpython-stable-abi:
 
-ABI Compatibility
+ABI Compatibility 
 -----------------
 
 The CPython C API does not guarantee ABI stability between minor releases
